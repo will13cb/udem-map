@@ -1,0 +1,9 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type":"Feature","properties":{"type":"building","name":"Pavillon Roger-Gaudry","code":"PAV-RG"},
+      "geometry":{"type":"Point","coordinates":[-73.6145,45.5047]}},
+    { "type":"Feature","properties":{"type":"parking","name":"Stationnement Louis-Colin","code":"P-LC"},
+      "geometry":{"type":"Point","coordinates":[-73.6186,45.4959]}}
+  ]
+}
